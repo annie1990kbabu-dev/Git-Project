@@ -1,0 +1,5 @@
+Inheritance
+Inheritance in Java is a mechanism where one class acquires the properties (fields) and behaviors (methods) of another class.
+Single inheritance involves a class extending only one other class. It is the simplest form of inheritance that represents a straightforward is-a relationship.
+Hierarchical inheritance involves multiple classes inherited from a single parent class
+Multilevel inheritance involves a class inheriting from a class, which in turn inherits from another class. This forms a chain of inheritance.
